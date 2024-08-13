@@ -17,7 +17,6 @@ public class simpleDate {
 		String datereq=sim.format(cal.getTime());
 		System.out.println(datereq);
 		
-		System.out.println("Hi");
 
 	}
 
